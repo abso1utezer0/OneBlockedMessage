@@ -1,0 +1,1 @@
+python -m pip install git+https://github.com/dolfies/discord.py-self@renamed#egg=selfcord.py[voice]
